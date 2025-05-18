@@ -1,5 +1,7 @@
 # [KSIĄŻKA] Debian GNU/Linux 12. Rozpoczecie pracy.
 
+Treść komend, skryptów oraz plików konfiguracyjnych, użytych w książce:
+
 ## strona 59
 
 ```bash
